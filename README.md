@@ -17,10 +17,15 @@ The user guide corresponding to this version of the framework can be found
 ## Installation & updates
 
 `git clone https://github.com/awanz/ci4-gentelella.git`
+
 `composer update` 
+
 `npm update` 
+
 `npm run dev` 
+
 `php spark serve` 
+
 
 ## Setup
 

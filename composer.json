@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=7.2",
-		"codeigniter4/framework": "^4"
+		"awan/ci4-gentelella": "1.0.*"
 	},
 	"require-dev": {
 		"fzaninotto/faker": "^1.9@dev",
@@ -25,8 +25,6 @@
 		"test": "phpunit"
 	},
 	"support": {
-		"forum": "http://forum.codeigniter.com/",
-		"source": "https://github.com/codeigniter4/CodeIgniter4",
-		"slack": "https://codeigniterchat.slack.com"
+		"source": "https://github.com/awanz/ci4-gentelella"
 	}
 }

@@ -1,8 +1,8 @@
 {
-	"name": "codeigniter4/appstarter",
+	"name": "awan/ci4-gentelella",
 	"type": "project",
-	"description": "CodeIgniter4 starter app",
-	"homepage": "https://codeigniter.com",
+	"description": "CodeIgniter 4 integrated with Admin Template Gentelella",
+	"homepage": "https://awan.es",
 	"license": "MIT",
 	"require": {
 		"php": ">=7.2",

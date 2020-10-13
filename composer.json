@@ -4,9 +4,17 @@
 	"description": "CodeIgniter 4 integrated with Admin Template Gentelella",
 	"homepage": "https://awan.es",
 	"license": "MIT",
+	"authors": [
+		{
+			"name": "Awan",
+			"email": "hermawan9815@gmail.com",
+			"homepage": "https://awan.es",
+			"role": "Developer"
+		}
+	],
 	"require": {
 		"php": ">=7.2",
-		"awan/ci4-gentelella": "1.0.*"
+		"codeigniter4/framework": "^4.0.4"
 	},
 	"require-dev": {
 		"fzaninotto/faker": "^1.9@dev",
